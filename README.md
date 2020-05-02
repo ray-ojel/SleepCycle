@@ -1,2 +1,3 @@
-# Analyzing, Visualizing and Predicting Sleep Quality from Sleep Cycle
-Analyzing Sleep Data from 1000 Nights of Sleep using the Sleep Cycle IOS App
+# Predicting Sleep Quality
+Sleep Cycle is an IOS and Android mobile appication that utalizes the phone's microphone to record sleep, and wakes you up during an interval of light sleep, feeling rested. 
+
