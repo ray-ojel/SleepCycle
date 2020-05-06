@@ -14,9 +14,7 @@ RayJsonData.txt was scraped from the [Sleep Cycle](https://s.sleepcycle.com/) we
 
 Since I still currently use this app, I wanted to continousley scrape the new data from the Sleep Cycle website and add a new row to the RaySleepData.csv file to keep an up-to-date model.
 
-#### 1. 
-
-**Question 1** How is sleep quality affected by daily factors such as naps, stimulants, emotion and more?
+#### Question 1: How is sleep quality affected by daily factors such as naps, stimulants, emotion and more?
 
 **Hypothesis 1** Sleep Quality is decreased during Daylight naps, with Tea, Coffee and Nicotine, and with the mood of the day.
 
