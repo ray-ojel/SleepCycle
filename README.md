@@ -16,10 +16,12 @@ Since I still currently use this app, I wanted to continousley scrape the new da
 
 1. **Question 1** How is sleep quality affected by daily factors such as naps, stimulants, emotion and more?
 
-1. **Hypothesis 1** Sleep Quality is decreased during Daylight naps, with Tea, Coffee and Nicotine, and with the mood of the day.
+**Hypothesis 1** Sleep Quality is decreased during Daylight naps, with Tea, Coffee and Nicotine, and with the mood of the day.
 
-1. **Conclusion 1** 
+**Conclusion 1** 
 
-2. **Hypothesis 2** Sleep quality is decreased during winter-like weather such as rain, snow, cloudy, etc.
+2. **Question 2** How is sleep quality affected by the weather? 
 
-2. **Conclusion 2**
+**Hypothesis 2** Sleep quality is decreased during winter-like weather such as rain, snow, cloudy, etc.
+
+**Conclusion 2**
