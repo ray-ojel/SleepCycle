@@ -26,9 +26,9 @@ Since I still currently use this app, I wanted to continousley scrape the new da
 
 ## Tasks
 
-### Task 1: Visualize Sleep trends such as Time went to bed, time woken up, time asleep, etc.
+**Task 1:** Visualize Sleep trends such as Time went to bed, time woken up, time asleep, etc.
 
-### Task 2: Update the visualization daily and add a daily plot. 
+**Task 2:** Update the visualization daily and add a daily plot. 
 
 ## Questions
 
