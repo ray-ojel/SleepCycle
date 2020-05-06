@@ -24,6 +24,10 @@ Sleep Cycle is an IOS and Android mobile appication that utalizes the phone's mi
 
 Since I still currently use this app, I wanted to continousley scrape the new data from the Sleep Cycle website and add a new row to the RaySleepData.csv file to keep an up-to-date model.
 
+### Task 1: Visualize Sleep trends such as Time went to bed, time woken up, time asleep, etc.
+
+### Task 2: Update the visualization daily and add a daily plot. 
+
 ### Question 1: How is sleep quality affected by daily factors such as naps, stimulants, emotion and more?
 
 **Hypothesis 1:** Sleep Quality is decreased during Daylight naps, with Tea, Coffee and Nicotine, and with a bad day.
@@ -38,7 +42,7 @@ Since I still currently use this app, I wanted to continousley scrape the new da
 
 ### Question 3: How is sleep quality affected by activity level (Steps)?
 
-**Hypothesis 3:** Sleep quality is increased by increasing activity level. 
+**Hypothesis 3:** Sleep quality is improved by increasing activity level. 
 
 **Conclusion 3:** 
 
@@ -53,3 +57,10 @@ Since I still currently use this app, I wanted to continousley scrape the new da
 **Hypothesis 5:** Sleep quality during the week is lower than during weekends.
 
 **Conclusion 5:**
+
+### Question 6: How does regulatiry (going to sleep at the same time) affect sleep quality? 
+
+**Hypothesis 6:** Regular sleep/wake times improve sleep quality.
+
+**Conclusion 6:** 
+
