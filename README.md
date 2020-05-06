@@ -20,7 +20,7 @@ Sleep Cycle is an IOS and Android mobile appication that utalizes the phone's mi
 
 *RayJsonData.txt* was scraped from the [Sleep Cycle](https://s.sleepcycle.com/) website with my login information.
 
-## Updating the Data
+## Updating the Data 
 
 Since I still currently use this app, I wanted to continousley scrape the new data from the Sleep Cycle website and add a new row to the RaySleepData.csv file to keep an up-to-date model.
 
