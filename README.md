@@ -14,11 +14,11 @@ Sleep Cycle is an IOS and Android mobile appication that utalizes the phone's mi
 
 ## The Data
 
-*RaySleepData.csv* was acquired between 2018-2020 and collected through the Sleep Cycle app from my personal iPhone.
+* *RaySleepData.csv* was acquired between 2018-2020 and collected through the Sleep Cycle app from my personal iPhone.
 
-*KaggleSleepData.csv* was aquired from [Kaggle](https://www.kaggle.com/danagerous/sleep-data?rvi=1) between 2014-2018 and collected through the Sleep Cycle app from Northcube on iOS.
+* *KaggleSleepData.csv* was aquired from [Kaggle](https://www.kaggle.com/danagerous/sleep-data?rvi=1) between 2014-2018 and collected through the Sleep Cycle app from Northcube on iOS.
 
-*RayJsonData.txt* was scraped from the [Sleep Cycle](https://s.sleepcycle.com/) website with my login information.
+* *RayJsonData.txt* was scraped from the [Sleep Cycle](https://s.sleepcycle.com/) website with my login information.
 
 ## Updating the Data 
 
@@ -34,37 +34,36 @@ Sleep Cycle is an IOS and Android mobile appication that utalizes the phone's mi
 
 ### Question 1: How is sleep quality affected by daily factors such as naps, stimulants, emotion and more?
 
-**Hypothesis 1:** Sleep Quality is decreased during Daylight naps, with Tea, Coffee and Nicotine, and with a bad day.
+* **Hypothesis 1:** Sleep Quality is decreased during Daylight naps, with Tea, Coffee and Nicotine, and with a bad day.
 
-**Conclusion 1:** 
+* **Conclusion 1:** 
 
 ### Question 2: How is sleep quality affected by the weather? 
 
-**Hypothesis 2:** Sleep quality is decreased during winter-like weather such as rain, snow, cloudy, etc.
+* **Hypothesis 2:** Sleep quality is decreased during winter-like weather such as rain, snow, cloudy, etc.
 
-**Conclusion 2:**
+* **Conclusion 2:**
 
 ### Question 3: How is sleep quality affected by activity level (Steps)?
 
-**Hypothesis 3:** Sleep quality is improved by increasing activity level. 
+* **Hypothesis 3:** Sleep quality is improved by increasing activity level. 
 
-**Conclusion 3:** 
+* **Conclusion 3:** 
 
 ### Question 4: How is sleep quality affected by the air pressure and moon visibility? 
 
-**Hypothesis 4:** Sleep quality is not noticably affected by either air pressure nor the moon.
+* **Hypothesis 4:** Sleep quality is not noticably affected by either air pressure nor the moon.
 
-**Conclusion 4:** 
+* **Conclusion 4:** 
 
 ### Question 5: How does sleep quality compare by the day of the week?
 
-**Hypothesis 5:** Sleep quality during the week is lower than during weekends.
+* **Hypothesis 5:** Sleep quality during the week is lower than during weekends.
 
-**Conclusion 5:**
+* **Conclusion 5:**
 
 ### Question 6: How does regulatiry (going to sleep at the same time) affect sleep quality? 
 
-**Hypothesis 6:** Regular sleep/wake times improve sleep quality.
+* **Hypothesis 6:** Regular sleep/wake times improve sleep quality.
 
-**Conclusion 6:** 
-
+* **Conclusion 6:** 
