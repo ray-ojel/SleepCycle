@@ -22,8 +22,6 @@ Sleep Cycle is an IOS and Android mobile appication that utalizes the phone's mi
 
 ## Updating the Data 
 
-* Even though the data is a .csv file, it was separated by a (;) instead of comma and thus all the data was in the first column. To change that, replaced all (;) with a comma in the notepad.
-
 * Since I still currently use this app, I wanted to continousley scrape the new data from the Sleep Cycle website and add a new row to the RaySleepData.csv file to keep an up-to-date model.
 
 ### Tasks
