@@ -28,9 +28,9 @@ Sleep Cycle is an IOS and Android mobile appication that utalizes the phone's mi
 
 ### Tasks
 
-**Task 1:** Visualize Sleep trends such as Time went to bed, time woken up, time asleep, etc.
+* **Task 1:** Visualize Sleep trends such as Time went to bed, time woken up, time asleep, etc.
 
-**Task 2:** Update the visualization daily and add a daily plot. 
+* **Task 2:** Update the visualization daily and add a daily plot. 
 
 ### Question 1: How is sleep quality affected by daily factors such as naps, stimulants, emotion and more?
 
