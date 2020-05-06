@@ -14,11 +14,11 @@ Sleep Cycle is an IOS and Android mobile appication that utalizes the phone's mi
 
 ## The Data
 
-RaySleepData.csv was acquired between 2018-2020 and collected through the Sleep Cycle app from my personal iPhone.
+*RaySleepData.csv* was acquired between 2018-2020 and collected through the Sleep Cycle app from my personal iPhone.
 
-KaggleSleepData.csv was aquired from [Kaggle](https://www.kaggle.com/danagerous/undefined) between 2014-2018 and collected through the Sleep Cycle app from Northcube on iOS.
+*KaggleSleepData.csv* was aquired from [Kaggle](https://www.kaggle.com/danagerous/undefined) between 2014-2018 and collected through the Sleep Cycle app from Northcube on iOS.
 
-RayJsonData.txt was scraped from the [Sleep Cycle](https://s.sleepcycle.com/) website with my login information.
+*RayJsonData.txt* was scraped from the [Sleep Cycle](https://s.sleepcycle.com/) website with my login information.
 
 ## Updating the Data
 
