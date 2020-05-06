@@ -1,4 +1,4 @@
-#Predicting Sleep Quality
+# Predicting Sleep Quality
 
 Sleep Cycle is an IOS and Android mobile appication that utalizes the phone's microphone to record sleep, and wakes you up during an interval of light sleep when you're most rested. 
 
@@ -14,7 +14,7 @@ RayJsonData.txt was scraped from the [Sleep Cycle](https://s.sleepcycle.com/) we
 
 Since I still currently use this app, I wanted to continousley scrape the new data from the Sleep Cycle website and add a new row to the RaySleepData.csv file to keep an up-to-date model.
 
-##1. 
+## 1. 
 
 **Question 1** How is sleep quality affected by daily factors such as naps, stimulants, emotion and more?
 
@@ -22,7 +22,7 @@ Since I still currently use this app, I wanted to continousley scrape the new da
 
 **Conclusion 1** 
 
-##2. 
+## 2. 
 
 **Question 2** How is sleep quality affected by the weather? 
 
