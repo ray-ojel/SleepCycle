@@ -24,9 +24,13 @@ Sleep Cycle is an IOS and Android mobile appication that utalizes the phone's mi
 
 Since I still currently use this app, I wanted to continousley scrape the new data from the Sleep Cycle website and add a new row to the RaySleepData.csv file to keep an up-to-date model.
 
+## Tasks
+
 ### Task 1: Visualize Sleep trends such as Time went to bed, time woken up, time asleep, etc.
 
 ### Task 2: Update the visualization daily and add a daily plot. 
+
+## Questions
 
 ### Question 1: How is sleep quality affected by daily factors such as naps, stimulants, emotion and more?
 
