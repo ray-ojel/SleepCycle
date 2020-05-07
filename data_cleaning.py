@@ -1,5 +1,5 @@
 def sleep_cleaning(dataset):
-    # Import all the relvant libraries and read in the file
+    # Import all the relevant libraries and read in the file
     import re
     import numpy as np
     import pandas as pd
