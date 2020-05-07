@@ -12,7 +12,7 @@ REM Sleep: Or Rapid Eye Movement Sleep. Close to wakefullness, dreaming and memo
 
 Sleep Cycle is an IOS and Android mobile appication that utalizes the phone's microphone to record sleep, and wakes you up when you're most rested, in between the 90-minute sleep cycles.
 
-## The Data
+## The Data 
 
 * *RaySleepData.csv* was acquired between 2018-2020 and collected through the Sleep Cycle app from my personal iPhone.
 
