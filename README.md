@@ -20,7 +20,15 @@ Sleep Cycle is an IOS and Android mobile appication that utalizes the phone's mi
 
 * *RayJsonData.txt* was scraped from the [Sleep Cycle](https://s.sleepcycle.com/) website with my login information.
 
-## Updating the Data 
+## Understanding the Data 
+
+* Start/End Date/Time: Date and Time of sleep analysis
+
+* Sleep quality (%): Calculated based on time asleep, movement, and many other factors.
+
+* Sleep Notes: Other sleep quality modifying factors such as location, naps, and stimulants.
+
+* Stimulant, Stressful Day?, Nap?: True or False values to compare sleep quality values.
 
 * Since I still currently use this app, I wanted to continousley scrape the new data from the Sleep Cycle website and add a new row to the RaySleepData.csv file to keep an up-to-date model.
 
