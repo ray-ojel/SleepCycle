@@ -1,5 +1,7 @@
 # Predicting Sleep Quality
 
+This is my first independent project for my own interests. 
+
 Sleep happens in stages during the night. It is split into non-REM (Stages 1-3) and REM sleep. Combined, they last about 90 minutes, or one sleep cycle. A good night's sleep consists of 5-6 complete sleep cycles. 
 
 Stage 1: Drowsiness. Changeover from wakefullness to sleep. On average lasting 15 mins.
